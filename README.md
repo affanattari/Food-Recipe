@@ -2,9 +2,13 @@
 Food Recipe app using Django
 # Login Page
 ![Login Page (2)](https://github.com/user-attachments/assets/9805d03d-7d45-44ca-9688-b0da139e9c4d)
-# Registration Page
+#Registration page
+![Registration Page (2)](https://github.com/user-attachments/assets/29199c13-926c-4438-b24d-6e5770b157c2)
+# Main Page
+here u can add recipe name, description and image 
 ![Registration Page](https://github.com/user-attachments/assets/7aa0ee8a-ec50-4ab9-845c-8b066b51d0d2)
 # Main Page
+Tables
 ![main page](https://github.com/user-attachments/assets/39005a06-9697-4a4e-ad71-635e55dbc757)
 # Update Page
 ![Update Page](https://github.com/user-attachments/assets/11edf1e8-4ce9-445d-92ef-23f894845258)
