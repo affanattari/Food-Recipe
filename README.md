@@ -44,5 +44,4 @@ Windows:
 4. Run the server and view localhost:8000. In your terminal type (type ctr+c to stop the server):
 > python manage.py runserver
 
-# NOTE:- on the localhost:8000/ (you will get error) so to go to login page use
-> localhost:8000/login/
+# NOTE:- on the localhost:8000/ (you will get error) so to go to login page use (localhost:8000/login/)
