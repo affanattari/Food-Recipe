@@ -15,7 +15,7 @@ Update Recipes: Edit existing recipes to keep them up to date.
 
 Delete Recipes: Delete specific recipes from the database.
 
-3. Search Functionality
+> 3. Search Functionality
    
 Search Recipes: Users can search for recipes by keywords or names, making it easier to find desired content.
 
