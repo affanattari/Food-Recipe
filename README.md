@@ -4,12 +4,15 @@ Food Recipe app using Django
 1. User Authentication & Authorization
 
 Login and Logout: Secure login and logout functionality to manage user sessions.
+
 User Registration: Allows new users to sign up with validation to prevent duplicate usernames. Displays an error message if the username already exists.
 
 2. Recipe Management
 
 Create Recipes: Users can add new recipes with all relevant details.
+
 Update Recipes: Edit existing recipes to keep them up to date.
+
 Delete Recipes: Delete specific recipes from the database.
 
 3. Search Functionality
