@@ -31,6 +31,7 @@ Tables
 ![main page](https://github.com/user-attachments/assets/39005a06-9697-4a4e-ad71-635e55dbc757)
 # Update Page
 ![Update Page](https://github.com/user-attachments/assets/11edf1e8-4ce9-445d-92ef-23f894845258)
+
 # Project Setup
 1. Create a virtual environment for the project so it's packages are separated from others on your computer. In your terminal type:
 Windows:
@@ -43,5 +44,5 @@ Windows:
 4. Run the server and view localhost:8000. In your terminal type (type ctr+c to stop the server):
 > python manage.py runserver
 
-> NOTE:- on the local host 127.0.0.1:8000/ (you will get error) so to go to login page use
-> 127.0.0.1:8000/login/
+# NOTE:- on the localhost:8000/ (you will get error) so to go to login page use
+> localhost:8000/login/
